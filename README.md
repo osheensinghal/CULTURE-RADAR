@@ -1,4 +1,19 @@
-<div align="center">
+
+🌍 culture radarAI – AI Travel & Cultural Discovery
+
+culture radarAI is an AI-powered travel platform that transforms the way people discover and experience destinations. Leveraging Generative AI, it provides personalized travel recommendations, uncovers hidden gems, showcases local culture, festivals, cuisine, and heritage, and creates immersive storytelling experiences. With interactive maps, stunning animations, and intelligent itinerary planning, VoyageAI helps travelers explore the world more meaningfully and confidently.
+
+✨ Key Features
+
+🤖 AI-powered destination recommendations
+🗺️ Interactive maps with immersive place visualization
+📖 AI-generated cultural stories and travel guides
+💎 Hidden gems and offbeat attractions
+🎉 Local festivals and cultural events
+🍜 Food, heritage, and local experience recommendations
+📅 Smart AI itinerary planner
+🌦️ Weather and travel insights
+🎨 Modern, colorful, animated UI with premium user experience<div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
