@@ -1,0 +1,6 @@
+{
+  "name": "Destination Discovery & Cultural Experiences Platform",
+  "description": "A GenAI-powered platform that helps travelers discover destinations, explore heritage, read immersive local stories, uncover hidden gems, and find authentic cultural events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
